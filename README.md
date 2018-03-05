@@ -1,0 +1,1 @@
+# generic-electronics--reed-switches
