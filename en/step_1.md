@@ -1,25 +1,10 @@
-## Introduction
+A reed switch contains two metal contacts within a plastic or glass casing.
 
-Add project description here. What will learners be making?
+<a title="By André Karwath aka Aka (Own work) [CC BY-SA 2.5 (https://creativecommons.org/licenses/by-sa/2.5)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AReed_switch_(aka).jpg"><img width="512" alt="Reed switch (aka)" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Reed_switch_%28aka%29.jpg/512px-Reed_switch_%28aka%29.jpg"/></a>
 
-### What you will make
+When a magnet is moved close to a reed switch, the metal contacts move and touch each other, allowing electric current to flow through them.
 
-Add something here to showcase here, for example:
-
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
-</div>
-
-Add instructions here. These should explain either how the finished project will work, or explain how to interact with the content above.
-
-### What you will learn
-
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
-
-+ [Add curriculum strand/level description.](https://www.raspberrypi.org/curriculum/strand/level){:target="_blank"}
-
-### Additional information for educators
-
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/project-name/print){:target="_blank"}.
-
-Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.
+<video width="640" height="360" controls>
+<source src="images/reed_switch.mp4" type="video/mp4">
+Your browser does not support WebM video, try FireFox or Chrome
+</video>
